@@ -43,6 +43,3 @@ def expand(s, left, right):
 
     print(left, right)
     return s[left + 1 : right]
-
-
-expand("babad", 2, 2)
